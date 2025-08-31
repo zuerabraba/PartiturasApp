@@ -1,0 +1,23 @@
+PartiturasApp/
+│
+├─ app/
+│  ├─ src/
+│  │  ├─ main/
+│  │  │  ├─ java/com/associacao/partiturasapp/
+│  │  │  │    ├─ MainActivity.kt
+│  │  │  │    ├─ AddPartituraActivity.kt
+│  │  │  │    ├─ PartituraAdapter.kt
+│  │  │  │    ├─ Partitura.kt
+│  │  │  │    └─ FirebaseService.kt
+│  │  │  └─ res/
+│  │  │       ├─ layout/
+│  │  │       │    ├─ activity_main.xml
+│  │  │       │    ├─ activity_add_partitura.xml
+│  │  │       │    └─ item_partitura.xml
+│  │  │       └─ values/
+│  │  │            ├─ colors.xml
+│  │  │            ├─ strings.xml
+│  │  │            └─ styles.xml
+│  │  └─ AndroidManifest.xml
+│  └─ build.gradle
+└─ build.gradle
